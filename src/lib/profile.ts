@@ -12,5 +12,5 @@ type SiteProfile = {
 const profile = profileData as SiteProfile;
 
 export const { bankAccount, ownerName } = profile;
-export const wishlistTitle = `미리 찾아온 ${ownerName}의 생일 위시리스트`;
+export const wishlistTitle = `조금 일찍 찾아온 ${ownerName}의 생일`;
 export const wishlistDescription = `${ownerName}의 생일 위시리스트에서 선물을 고르고 따뜻한 축하 메시지를 남겨주세요.`;

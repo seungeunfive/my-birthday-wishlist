@@ -2,10 +2,10 @@
   {
     "id": "air-conditioner",
     "name": "캐리어 벽걸이 에어컨 6평형",
-    "description": "에어컨없이 살 결심하다 7월 날씨보고 안디겠다 싶어 사는 에어컨",
+    "description": "당근으로 산 에어컨에서 바선생 10마리 발견하고 환불 엔딩.. 에어컨만은 새로 사고 싶은 마음!",
     "price": 460000,
     "fundedAmount": 0,
-    "image": "/wish/air-conditioner.jpg",
+    "image": "/wish/air-conditioner.png",
     "productUrl": "https://smartstore.naver.com/mkcarriers/products/11734973242?nl-query=캐리어에어컨+6평형&nl-ts-pid=jEmX2wqos5qzghzZ4r4-235361&NaPm=ct%3Dms4f9py8%7Cci%3D079f52de788f8ba2d4689e931b3ab2ae8589b10d%7Ctr%3Dsls%7Csn%3D11203955%7Chk%3D96906c928a13bffc67f498117c7631f04f09be69#ZOOM",
     "priority": "top",
     "status": "open"
